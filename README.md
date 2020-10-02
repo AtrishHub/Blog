@@ -1,4 +1,4 @@
-# The Ghost Blog
+# The Ghost blog
 
 ![image](https://cloud.githubusercontent.com/assets/120485/8188178/20c05762-144c-11e5-9ae2-dee093b617c0.png)
 
